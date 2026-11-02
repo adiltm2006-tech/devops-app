@@ -5,8 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Welcome to the DevOps Journey - development build!"
-
+    return "Welcome to DevOps Journey app! (v1.0.0)"
 
 @app.route("/health")
 def health():
