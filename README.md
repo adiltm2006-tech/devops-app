@@ -10,3 +10,4 @@ Small Flask app used for the DevOps tools practical lab.
 ## Run
     pip install -r requirements.txt
     python app.py
+
